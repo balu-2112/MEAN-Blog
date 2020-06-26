@@ -1,0 +1,22 @@
+.menu a,li{
+    text-decoration: none;
+    margin: 2%;
+    margin-left: 5%;
+    list-style: none;
+    display: inline-block;
+    color: orange;
+}
+
+
+.navbar-brand{
+    position: relative;
+    margin: 5%;
+    font-size: 30px;
+    color: white;
+}
+
+.btn{
+    margin-top: 15%;
+    margin-left: 5%;
+}
+

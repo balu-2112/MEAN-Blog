@@ -1,0 +1,18 @@
+.show-less {
+    height: 4rem;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.post{
+    border-radius: 1%;
+}
+
+.post:hover{
+    cursor: pointer;
+    box-shadow: 4px 4px 4px 0px rgba(0,0,0,1);
+}
+
+#editform{
+    display: none;
+}
